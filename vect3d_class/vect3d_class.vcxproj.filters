@@ -15,11 +15,9 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\Desktop\Informatik\vect_class\vect3d.cpp">
-      <Filter>Quelldateien</Filter>
-    </ClCompile>
+    <None Include="ClassDiagram.cd" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="ClassDiagram.cd" />
+    <ClCompile Include="..\..\..\..\..\Desktop\Informatik\vect_class\vect3d.cpp" />
   </ItemGroup>
 </Project>

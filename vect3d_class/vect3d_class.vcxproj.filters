@@ -18,6 +18,8 @@
     <None Include="ClassDiagram.cd" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\Desktop\Informatik\vect_class\vect3d.cpp" />
+    <ClCompile Include="..\..\..\..\..\Desktop\Informatik\vect_class\vect3d.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
